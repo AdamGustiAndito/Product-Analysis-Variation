@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko onl
 7. **Kesimpulan & Rekomendasi** ✅
 
 ## 📂 Struktur Repository
-📁 [Notebook](Final Project.ipynb) → Jupyter Notebooks untuk analisis  
+📁 [Notebook](Product-Analysis-Variation/Final%20Project.ipynb) → Jupyter Notebooks untuk analisis  
 📁 `visualizations/` → Hasil visualisasi data  
 📁 `reports/` → Laporan PDF & presentasi PPTX  
 📁 `dashboard/` → Link & screenshot dashboard Tableau  
