@@ -20,17 +20,15 @@ Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko onl
 6. **Analisis Statistik** 📑
 7. **Kesimpulan & Rekomendasi** ✅
 
-## 📂 Struktur Repository
-📁 [Notebook]([Final Project.ipynb](https://github.com/AdamGustiAndito/Product-Analysis-Variation/blob/main/Final%20Project.ipynb)) → Jupyter Notebooks untuk analisis 
-📁 `visualizations/` → Hasil visualisasi data  
-📁 `reports/` → Laporan PDF & presentasi PPTX  
-📁 `dashboard/` → Link & screenshot dashboard Tableau  
+## 📂 File Repository
+📁 [Dataset](https://github.com/AdamGustiAndito/Product-Analysis-Variation/blob/main/ecommerce_dataset_us.zip) → Dataset yang digunakan  
+📁 [Notebook](https://github.com/AdamGustiAndito/Product-Analysis-Variation/blob/main/Final%20Project.ipynb) → Jupyter Notebooks untuk analisis 
 
 ## 📊 Dashboard Tableau
 🔗 [Lihat di sini](https://public.tableau.com/views/ProductSalesDashboard_17101507392360/Dashboard1)
 
 ## 📄 Laporan & Presentasi
-📥 [Download laporan & presentasi](https://drive.google.com/drive/folders/1s74ntXyfrJLEda0wx5upcUZwF3QEfC8x?usp=sharing)
+📥 [Download laporan & presentasi](https://drive.google.com/drive/folders/19he5sKB-ZCyBpyJ_aicWVbkoTctCwcn6?usp=sharing)
 
 ## 📌 Teknologi yang Digunakan
 - **Python** (Pandas, Matplotlib, Seaborn, Scipy)
